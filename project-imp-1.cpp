@@ -6,6 +6,8 @@
 #include <GL/gl.h>
 #include <math.h>
 
+
+/* some changes are occurred */
 void init(void){
     glClearColor(0,0,0,0); //GLfloat red,green,blue,alpha initial value 0 alpha values used by glclear to clear the color buffers
     glMatrixMode(GL_PROJECTION);  // To specify which matrix is the current matrix & projection applies subsequent matrix to projecton matrix stack
