@@ -10,10 +10,7 @@
 /* some changes are occurred */
 /*this is in new branch*/
 
-
-/* again some new lines are added*/
 /*new line added from github*/
-
 void init(void){
     glClearColor(0,0,0,0); //GLfloat red,green,blue,alpha initial value 0 alpha values used by glclear to clear the color buffers
     glMatrixMode(GL_PROJECTION);  // To specify which matrix is the current matrix & projection applies subsequent matrix to projecton matrix stack
