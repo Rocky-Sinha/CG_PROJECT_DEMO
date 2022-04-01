@@ -6,7 +6,7 @@
 #include <GL/gl.h>
 #include <math.h>
 
-
+/*changes from rocky*/
 
 
 void init(void){
